@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Fermulate mark: an F inside a clock ring that is running a little late">
+<path d="M161.3 48.6 A80 80 0 1 1 100 20" fill="none" stroke="#15171A" stroke-width="16" stroke-linecap="round"/>
+<path d="M80 62 V140 M80 62 H124 M80 100 H114" fill="none" stroke="#15171A" stroke-width="18" stroke-linecap="square"/>
+<circle cx="161.3" cy="48.6" r="13" fill="#FF5A1F"/>
+</svg>
