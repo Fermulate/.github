@@ -14,7 +14,7 @@
 
 ## Hi, we're Fermulate
 
-We're a few friends with computer science degrees and a low tolerance for small annoyances. When something in our day could work better, we build the fix, use it ourselves, and then publish it here so it can fix your day too.
+We're a few friends studying computer science, with a low tolerance for small annoyances. When something in our day could work better, we build the fix, use it ourselves, and then publish it here so it can fix your day too.
 
 Everything we make is free and open source. Use it, read it, fork it, improve it.
 
