@@ -4,6 +4,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://fermulate.com"><b>fermulate.com</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fermulate">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/fermulate">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#have-a-headache">Send us a headache</a>
@@ -16,6 +17,8 @@
 We're a few friends with computer science degrees and a low tolerance for small annoyances. When something in our day could work better, we build the fix, use it ourselves, and then publish it here so it can fix your day too.
 
 Everything we make is free and open source. Use it, read it, fork it, improve it.
+
+The whole story, the projects and the people behind them live at **[fermulate.com](https://fermulate.com)**.
 
 ## Why "Fermulate"
 
@@ -33,7 +36,7 @@ It's "formulate", running a little late. That's what we do: we formulate softwar
 
 | Project | The headache | Status |
 | --- | --- | --- |
-| [potluck](https://github.com/Fermulate/potluck) | Splitting the bill and planning the day with a group, in one place instead of three apps. | In progress |
+| [Potluck](https://github.com/Fermulate/potluck) | Splitting the bill and planning the day with a group, in one place instead of three apps. Free, open source expense splitting and group event planning. | Live, early development: [app](https://potluck.fermulate.com), [guide](https://docs.potluck.fermulate.com) |
 
 More are cooking. Hit **Watch** on this org and GitHub will tell you when they land.
 
@@ -52,8 +55,11 @@ Open an issue on the project it belongs to, or start a thread in [Discussions](h
 
 ## Find us
 
+- Website: [fermulate.com](https://fermulate.com)
+- People: [fermulate.com/people](https://fermulate.com/people/)
 - GitHub: [github.com/Fermulate](https://github.com/Fermulate)
 - LinkedIn: [linkedin.com/company/fermulate](https://www.linkedin.com/company/fermulate)
+- Ideas and questions: [Discussions](https://github.com/orgs/Fermulate/discussions)
 
 <p align="center">
   <picture>
