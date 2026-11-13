@@ -22,7 +22,7 @@ The whole story, the projects and the people behind them live at **[fermulate.co
 
 ## Why "Fermulate"
 
-It's "formulate", running a little late. That's what we do: we formulate software, and the ring in our logo is a clock that never quite reaches twelve. The orange dot is where it actually got to. We think that's honest.
+It's a play on "formulate", because that's what we do: we make things, and we formulate software. It's spelled FER (Ferrin) + MU (Musa) + LATE, because those two kept running late to class. We liked the joke enough to design around it: the ring in our logo is a clock that never quite reaches twelve, and the orange dot is where it actually got to.
 
 ## What comes out of here
 
